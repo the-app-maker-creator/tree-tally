@@ -10,7 +10,14 @@ What it does
   (every minute during the shift, and when the shift is stopped).
 - They show on Rick's map under "Work done" (unlock editing to see them).
 
-GET THE APP FILE (pick one)
+GET THE APP FILE
+- Latest build, ready to install:
+  https://github.com/the-app-maker-creator/tree-tally/releases/download/latest/TreeTally.apk
+  Open that link on the phone itself and it downloads straight away.
+- Code: https://github.com/the-app-maker-creator/tree-tally
+  Every change pushed there rebuilds the app automatically.
+
+OLD NOTES: OTHER WAYS TO BUILD (pick one)
 
 A) GitHub builds it for you (easiest)
    1. Make a new private repository on github.com, e.g. "tree-tally".
